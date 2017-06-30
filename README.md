@@ -17,7 +17,7 @@
 
 🌟 means that it's a classic.
 
-🔥 means that it has more than 100 000 ratings on [Goodreads](https://goodreads.com) or [IMDb](https://imdb.com).
+🔥 means that it has more than 100 000 ratings on [Goodreads](https://goodreads.com) or more than 500 000 ratings on [IMDb](https://imdb.com).
 
 *The [number] at the end is the [Goodreads](https://goodreads.com) or [IMDb](https://imdb.com) rating of the work at the time of submission.*
 
@@ -25,7 +25,7 @@
 
 #### [Dracula](https://www.goodreads.com/book/show/34810834-dracula) (1897) *by [Bram Stoker](https://en.wikipedia.org/wiki/Bram_Stoker)* [3.97] 🌟🔥
 
-Categories: `gothic` `horror`
+Categories: `gothic` `horror` `vampire`
 
 No list of great horror works would be complete without *Dracula*. This is a stunning example of epistolary novels done right, gothic horror done right, and defined an entire genre unto itself. If you are only familiar with Dracula through film or general pop culture references, I can't recommend the source material enough. I knew the basic story beats well before I ever picked the book up, and it still managed to suck me in. If audiobooks are your thing, definintely dry out the Audible full cast recording. [@thejessleigh](https://github.com/thejessleigh)
 
@@ -33,7 +33,7 @@ No list of great horror works would be complete without *Dracula*. This is a stu
 
 #### [The Haunting of Hill House](https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House) (1959) *by [Shirley Jackson](https://en.wikipedia.org/wiki/Shirley_Jackson)* [3.89] 🌟
 
-Categories: `gothic` `horror`
+Categories: `gothic` `horror` `haunted house`
 
 A classic of the genre, The Haunting of Hill House is a must read for anyone looking to build their horror repitorie. Calling this deeply psychological and discordant novel a haunted house story simply does it a disservice. It helped establish so many tropes of the genre, yet feels timeless. I find something new every time I read it. - [@thejessleigh](https://github.com/thejessleigh)
 
@@ -45,7 +45,7 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 ## Television
 
-#### [Hannibal](http://www.imdb.com/title/tt2243973) (2013-2015) *by [Bryan Fuller](https://en.wikipedia.org/wiki/Bryan_Fuller)* [8.6] 🔥
+#### [Hannibal](http://www.imdb.com/title/tt2243973) (2013-2015) *by [Bryan Fuller](https://en.wikipedia.org/wiki/Bryan_Fuller)* [8.6]
 
 Categories: `crime` `drama` `psychological thriller`
 
