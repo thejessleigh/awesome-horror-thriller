@@ -23,6 +23,14 @@
 
 ## Novels
 
+#### [The Haunting of Hill House](https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House) (1959) *by [Shirley Jackson](https://en.wikipedia.org/wiki/Shirley_Jackson)* [3.89] 🌟
+
+Categories: `gothic` `horror`
+
+A classic of the genre, The Haunting of Hill House is a must read for anyone looking to build their horror repitorie. Calling this deeply psychological and discordant novel a haunted house story simply does it a disservice. It helped establish so many tropes of the genre, yet feels timeless. I find something new every time I read it. - [@thejessleigh](https://github.com/thejessleigh)
+
+> First published in 1959, Shirley Jackson's The Haunting of Hill House has been hailed as a perfect work of unnerving terror. It is the story of four seekers who arrive at a notoriously unfriendly pile called Hill House: Dr. Montague, an occult scholar looking for solid evidence of a "haunting"; Theodora, his lighthearted assistant; Eleanor, a friendless, fragile young woman well acquainted with poltergeists; and Luke, the future heir of Hill House. At first, their stay seems destined to be merely a spooky encounter with inexplicable phenomena. But Hill House is gathering its powers—and soon it will choose one of them to make its own.
+
 ## Short Story Collections
 
 ## Movies
