@@ -25,6 +25,8 @@
 
 #### [Bird Box](https://www.goodreads.com/book/show/22350224-bird-box) (2014) *by [Josh Malerman](https://www.goodreads.com/author/show/7271073.Josh_Malerman)* [3.98]
 
+Categories: `horror` `post-apocalyptic` `psychological`
+
 This is a book I read in one sitting, and stayed up late in order to do so. This is a thrilling novel that toys with the reader's senses. For a large part of the story, the characters cannot see, and there is little to no visual description. Rather, it relies on the other four senses to push the story forward. This is one of the most tense and addictive stories I've ever read. I wish I could experience it again for the first time. - [@sunrein](https://github.com/sunrein)
 
 > Written with the narrative tension of The Road and the exquisite terror of classic Stephen King, Bird Box is a propulsive, edge-of-your-seat horror thriller, set in an apocalyptic near-future world—a masterpiece of suspense from the brilliantly imaginative Josh Malerman.
