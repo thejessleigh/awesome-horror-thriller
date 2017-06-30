@@ -21,7 +21,7 @@ All new items to the list should adhere to the following
 - Only suggest items that you have consumed and can make a personal comment about. If you are curious about a particular piece of media, open an issue to see if anyone else recommends it.
 - The entry should contain the title and creator links, publication year (or publication run for ongoing media), rating, description, and your personal commentary.
 	- For books and short stories, the creator will be the author(s) of the book. For comics, please include the illustrator alongside the author. For movies, please include the director.
-	- For books, comics, and short story collections please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.
+	- For books, comics, and short stories please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.
 	- For movies and TV shows, please copy the description and rating from [IMDb](https://imdb.com) and link to the IMDb entry.
 	- Please link the creator's [Wikipedia](https://wikipedia.org) page. If no such page exists, it should point to the creator's [Goodread's](https://goodreads.com) or [IMDb](https://imdb.com) page. If no such links exist, please leave the creator name in plain text instead of including a link.
 - Use the following format:

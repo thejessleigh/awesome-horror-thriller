@@ -59,6 +59,8 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 #### [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves) (2000) *by [Mark Z. Danielewski](https://en.wikipedia.org/wiki/Mark_Z._Danielewski)* [4.13]
 
+Categories: `horror` `nested narratives`
+
 I first read this book when I was far too young for it to have been appropriate and it did a lot to shape my aesthetic. This beautiful, weird meta-textual novel makes you work, but it sticks with you. This book will fill your dreams with endless hallways and broken promises. An absolute must read. - [@thejessleigh](https://github.com/thejessleigh)
 
 > A blind old man, a young apprentice working in a tattoo shop, and a mad woman haunting an Ohio institute narrate this story of a family that encounters an endlessly shifting series of hallways in their new home, eventually coming face to face with the awful darkness lying at its heart.
