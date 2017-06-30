@@ -23,6 +23,14 @@
 
 ## Novels
 
+#### [Dracula](https://www.goodreads.com/book/show/34810834-dracula) (1897) *by [Bram Stoker](https://en.wikipedia.org/wiki/Bram_Stoker)* [3.97] 🌟🔥
+
+Categories: `gothic` `horror`
+
+No list of great horror works would be complete without *Dracula*. This is a stunning example of epistolary novels done right, gothic horror done right, and defined an entire genre unto itself. If you are only familiar with Dracula through film or general pop culture references, I can't recommend the source material enough. I knew the basic story beats well before I ever picked the book up, and it still managed to suck me in. If audiobooks are your thing, definintely dry out the Audible full cast recording. [@thejessleigh](https://github.com/thejessleigh)
+
+> When Jonathan Harker visits Transylvania to help Count Dracula with the purchase of a London house, he makes horrifying discoveries about his client and his castle. Soon afterwards, a number of disturbing incidents unfold in England: an unmanned ship is wrecked at Whitby; strange puncture marks appear on a young woman’s neck; and the inmate of a lunatic asylum raves about the imminent arrival of his ‘Master’. In the ensuing battle of wits between the sinister Count Dracula and a determined group of adversaries, Bram Stoker created a masterpiece of the horror genre, probing deeply into questions of human identity and sanity, and illuminating dark corners of Victorian sexuality and desire.
+
 #### [The Haunting of Hill House](https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House) (1959) *by [Shirley Jackson](https://en.wikipedia.org/wiki/Shirley_Jackson)* [3.89] 🌟
 
 Categories: `gothic` `horror`
