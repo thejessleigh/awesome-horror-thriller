@@ -27,7 +27,7 @@ All new items to the list should adhere to the following
 - Use the following format:
 
 ```
-[title](link) (year) *by [creator](link)* [rating]
+#### [title](link) (year) *by [creator](link)* [rating]
 
 Commentary - [@you](https://github.com/you)
 

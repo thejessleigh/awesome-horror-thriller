@@ -46,9 +46,7 @@ Categories: `horror` `fairy tale`
 Emily Carroll does amazing things with color to create a sense of disquiet from the very beginning. I loved the way that she played with sound and movement in some of her panel-less pages. Her stories have a fairy tale quality to them, so each one feels both familiar and new at the same time. This is a beautiful collection full of eerie and unsettling stories. Great for anyone who misses what it feels like to the Grimm's fairy tales for the first time. [@thejessleigh](https://github.com/thejessleigh)
 
 > Five mysterious, spine-tingling stories follow journeys into (and out of?) the eerie abyss.
-
 These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.
-
 Come take a walk in the woods and see what awaits you there.
 
 ## External Resources
