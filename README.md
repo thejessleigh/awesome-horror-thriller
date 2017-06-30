@@ -23,7 +23,7 @@
 
 ## Novels
 
-#### [Bird Box](https://www.goodreads.com/book/show/22350224-bird-box) (2014) *by [Josh Malerman](https://www.goodreads.com/author/show/7271073.Josh_Malerman)* [3.98]
+#### [Bird Box](https://www.goodreads.com/book/show/22350224-bird-box) (2014) *by [Josh Malerman](https://en.wikipedia.org/wiki/Josh_Malerman)* [3.98]
 
 Categories: `horror` `post-apocalyptic` `psychological`
 
