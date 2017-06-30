@@ -43,13 +43,21 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 ## Movies
 
-#### [Rosemary's Baby](http://www.imdb.com/title/tt0063522/) (1968) *by [Roman Polanski](https://en.wikipedia.org/wiki/Roman_Polanski)* [8.0]
+#### [Rosemary's Baby](http://www.imdb.com/title/tt0063522/) (1968) *by [Roman Polanski](https://en.wikipedia.org/wiki/Roman_Polanski)* [8.0] 🌟
 
 Categories: `drama` `horror` `psychological` `supernatural`
 
 *Rosemary's Baby* creates an atmosphere of doubt, unease, and wrongness from the first few frames that only grows as the movie progresses. It's suffocating and monstrous. Possibly one of the best scary movies of all time. [@thejessleigh](https://github.com/thejessleigh)
 
 > A young couple move into an apartment, only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.
+
+#### [The Silence of the Lambs](http://www.imdb.com/title/tt0102926/) (1991) *by [Jonathan Demme](https://en.wikipedia.org/wiki/Jonathan_Demme)* [8.6] 🌟🔥
+
+Categories: `crime` `drama` `psychological thriller`
+
+Although the gender politics of Buffalo Bill are outdated and problematic, Anthony Hopkins and Jodie Foster's performances are timeless and elevated *The Silence of the Lambs* to an instant classic. The pacing is slow, deliberate, and methodical in a way that is often immitated but seldom perfected in thrillers. Foster's performance is so tight and so skilled that this movie is watching just for the work she does alone. [@thejessleigh](https://github.com/thejessleigh)
+
+> A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.
 
 ## Television
 
