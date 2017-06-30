@@ -39,6 +39,12 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 > First published in 1959, Shirley Jackson's The Haunting of Hill House has been hailed as a perfect work of unnerving terror. It is the story of four seekers who arrive at a notoriously unfriendly pile called Hill House: Dr. Montague, an occult scholar looking for solid evidence of a "haunting"; Theodora, his lighthearted assistant; Eleanor, a friendless, fragile young woman well acquainted with poltergeists; and Luke, the future heir of Hill House. At first, their stay seems destined to be merely a spooky encounter with inexplicable phenomena. But Hill House is gathering its powers—and soon it will choose one of them to make its own.
 
+#### [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves) (2000) *by [Mark Z. Danielewski](https://en.wikipedia.org/wiki/Mark_Z._Danielewski)* [4.13]
+
+I first read this book when I was far too young for it to have been appropriate and it did a lot to shape my aesthetic. This beautiful, weird meta-textual novel makes you work, but it sticks with you. This book will fill your dreams with endless hallways and broken promises. An absolute must read. - [@thejessleigh](https://github.com/thejessleigh)
+
+> A blind old man, a young apprentice working in a tattoo shop, and a mad woman haunting an Ohio institute narrate this story of a family that encounters an endlessly shifting series of hallways in their new home, eventually coming face to face with the awful darkness lying at its heart.
+
 ## Short Story Collections
 
 ## Movies
