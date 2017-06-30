@@ -43,6 +43,14 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 ## Movies
 
+#### [Rosemary's Baby](http://www.imdb.com/title/tt0063522/) (1968) *by [Roman Polanski](https://en.wikipedia.org/wiki/Roman_Polanski)* [8.0]
+
+Categories: `drama` `horror` `psychological` `supernatural`
+
+*Rosemary's Baby* creates an atmosphere of doubt, unease, and wrongness from the first few frames that only grows as the movie progresses. It's suffocating and monstrous. Possibly one of the best scary movies of all time. [@thejessleigh](https://github.com/thejessleigh)
+
+> A young couple move into an apartment, only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.
+
 ## Television
 
 #### [Hannibal](http://www.imdb.com/title/tt2243973) (2013-2015) *by [Bryan Fuller](https://en.wikipedia.org/wiki/Bryan_Fuller)* [8.6]
