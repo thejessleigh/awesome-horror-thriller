@@ -27,7 +27,7 @@
 
 Categories: `gothic` `horror` `vampire`
 
-No list of great horror works would be complete without *Dracula*. This is a stunning example of epistolary novels done right, gothic horror done right, and defined an entire genre unto itself. If you are only familiar with Dracula through film or general pop culture references, I can't recommend the source material enough. I knew the basic story beats well before I ever picked the book up, and it still managed to suck me in. If audiobooks are your thing, definintely dry out the Audible full cast recording. [@thejessleigh](https://github.com/thejessleigh)
+No list of great horror works would be complete without *Dracula*. This is a stunning example of epistolary novels done right, gothic horror done right, and defined an entire genre unto itself. If you are only familiar with Dracula through film or general pop culture references, I can't recommend the source material enough. I knew the basic story beats well before I ever picked the book up, and it still managed to suck me in. If audiobooks are your thing, definintely dry out the Audible full cast recording. - [@thejessleigh](https://github.com/thejessleigh)
 
 > When Jonathan Harker visits Transylvania to help Count Dracula with the purchase of a London house, he makes horrifying discoveries about his client and his castle. Soon afterwards, a number of disturbing incidents unfold in England: an unmanned ship is wrecked at Whitby; strange puncture marks appear on a young woman’s neck; and the inmate of a lunatic asylum raves about the imminent arrival of his ‘Master’. In the ensuing battle of wits between the sinister Count Dracula and a determined group of adversaries, Bram Stoker created a masterpiece of the horror genre, probing deeply into questions of human identity and sanity, and illuminating dark corners of Victorian sexuality and desire.
 
@@ -43,11 +43,19 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 ## Movies
 
+#### [Get Out](http://www.imdb.com/title/tt5052448/) (2017) *by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele)* [7.8]
+
+Categories: `horror`
+
+The first time I saw this movie I immediately wanted to turn around and see it again. I've never seen a movie where the quality of the performances changes so drastically between the first and second viewings. I won't spoil anything here, but I thought I knew what was going on the first time I watched this. I didn't. I'm not often so caught off guard, horrified, and sickened by a film at the same time. In my opinion, this is a modern masterpiece. - [@thejessleigh](https://github.com/thejessleigh)
+
+> It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
+
 #### [Rosemary's Baby](http://www.imdb.com/title/tt0063522/) (1968) *by [Roman Polanski](https://en.wikipedia.org/wiki/Roman_Polanski)* [8.0] 🌟
 
 Categories: `drama` `horror` `psychological` `supernatural`
 
-*Rosemary's Baby* creates an atmosphere of doubt, unease, and wrongness from the first few frames that only grows as the movie progresses. It's suffocating and monstrous. Possibly one of the best scary movies of all time. [@thejessleigh](https://github.com/thejessleigh)
+*Rosemary's Baby* creates an atmosphere of doubt, unease, and wrongness from the first few frames that only grows as the movie progresses. It's suffocating and monstrous. Possibly one of the best scary movies of all time. - [@thejessleigh](https://github.com/thejessleigh)
 
 > A young couple move into an apartment, only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.
 
@@ -55,7 +63,7 @@ Categories: `drama` `horror` `psychological` `supernatural`
 
 Categories: `crime` `drama` `psychological thriller`
 
-Although the gender politics of Buffalo Bill are outdated and problematic, Anthony Hopkins and Jodie Foster's performances are timeless and elevated *The Silence of the Lambs* to an instant classic. The pacing is slow, deliberate, and methodical in a way that is often immitated but seldom perfected in thrillers. Foster's performance is so tight and so skilled that this movie is watching just for the work she does alone. [@thejessleigh](https://github.com/thejessleigh)
+Although the gender politics of Buffalo Bill are outdated and problematic, Anthony Hopkins and Jodie Foster's performances are timeless and elevated *The Silence of the Lambs* to an instant classic. The pacing is slow, deliberate, and methodical in a way that is often immitated but seldom perfected in thrillers. Foster's performance is so tight and so skilled that this movie is watching just for the work she does alone. - [@thejessleigh](https://github.com/thejessleigh)
 
 > A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.
 
@@ -65,7 +73,7 @@ Although the gender politics of Buffalo Bill are outdated and problematic, Antho
 
 Categories: `crime` `drama` `psychological thriller`
 
-Hannibal is something of a tone poem. The character development and relationships at the core of the show are the stars here. The show manages to keep you engaged and terrified despite knowing from popular culture where Hannibal Lecter ends up. Plus, the food cinematography is amazing and disturbing. [@thejessleigh](https://github.com/thejessleigh)
+Hannibal is something of a tone poem. The character development and relationships at the core of the show are the stars here. The show manages to keep you engaged and terrified despite knowing from popular culture where Hannibal Lecter ends up. Plus, the food cinematography is amazing and disturbing. - [@thejessleigh](https://github.com/thejessleigh)
 
 > Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers.
 
@@ -75,7 +83,7 @@ Hannibal is something of a tone poem. The character development and relationship
 
 Categories: `horror` `fairy tale`
 
-Emily Carroll does amazing things with color to create a sense of disquiet from the very beginning. I loved the way that she played with sound and movement in some of her panel-less pages. Her stories have a fairy tale quality to them, so each one feels both familiar and new at the same time. This is a beautiful collection full of eerie and unsettling stories. Great for anyone who misses what it feels like to the Grimm's fairy tales for the first time. [@thejessleigh](https://github.com/thejessleigh)
+Emily Carroll does amazing things with color to create a sense of disquiet from the very beginning. I loved the way that she played with sound and movement in some of her panel-less pages. Her stories have a fairy tale quality to them, so each one feels both familiar and new at the same time. This is a beautiful collection full of eerie and unsettling stories. Great for anyone who misses what it feels like to the Grimm's fairy tales for the first time. - [@thejessleigh](https://github.com/thejessleigh)
 
 > Five mysterious, spine-tingling stories follow journeys into (and out of?) the eerie abyss.
 These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.
