@@ -34,7 +34,7 @@ Commentary - [@you](https://github.com/you)
 > Description
 ```
 
-- Please add the entry to the correct section. If you are not sure which section a work belongs to, put it in the general Horror/Thriller section.
+- Please add the entry to the correct section in alphabetical order. If you are not sure which section a work belongs to, put it in the general Horror/Thriller section.
 - Please add your name and the link to your github next to your commentary. Pull requests without a personal comment will not be merged.
 - Start the description with a capital and end with a full stop/period.
 - Please check the list to make sure you do not submit a duplicate item. (However, feel free to add your personal comments to existing items.)
