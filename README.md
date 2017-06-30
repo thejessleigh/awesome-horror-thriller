@@ -37,6 +37,14 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 ## Television
 
+#### [Hannibal](http://www.imdb.com/title/tt2243973) (2013-2015) *by [Bryan Fuller](https://en.wikipedia.org/wiki/Bryan_Fuller)* [8.6] 🔥
+
+Categories: `crime` `drama` `psychological thriller`
+
+Hannibal is something of a tone poem. The character development and relationships at the core of the show are the stars here. The show manages to keep you engaged and terrified despite knowing from popular culture where Hannibal Lecter ends up. Plus, the food cinematography is amazing and disturbing. [@thejessleigh](https://github.com/thejessleigh)
+
+> Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers.
+
 ## Comic Books
 
 #### [Through the Woods](https://www.goodreads.com/book/show/18659623-through-the-woods) (2014) *by [Emily Carroll](https://en.wikipedia.org/wiki/Emily_Carroll)* [3.92]
