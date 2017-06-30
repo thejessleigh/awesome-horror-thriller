@@ -41,4 +41,4 @@ Inspired by the excellent lists made by [Richard Littauer](https://github.com/Ri
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extend possible under law, [Jess Unrein](https://jessunrein.com) has waived all copyright and related or neighboring rights to this work. See [the license](LICENSE.md) for full legal text.
+To the extent possible under law, [Jess Unrein](https://jessunrein.com) has waived all copyright and related or neighboring rights to this work. See [the license](LICENSE.md) for full legal text.
