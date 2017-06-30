@@ -39,6 +39,18 @@ A classic of the genre, The Haunting of Hill House is a must read for anyone loo
 
 ## Comic Books
 
+#### [Through the Woods](https://www.goodreads.com/book/show/18659623-through-the-woods) (2014) *by [Emily Carroll](https://en.wikipedia.org/wiki/Emily_Carroll)* [3.92]
+
+Categories: `horror` `fairy tale`
+
+Emily Carroll does amazing things with color to create a sense of disquiet from the very beginning. I loved the way that she played with sound and movement in some of her panel-less pages. Her stories have a fairy tale quality to them, so each one feels both familiar and new at the same time. This is a beautiful collection full of eerie and unsettling stories. Great for anyone who misses what it feels like to the Grimm's fairy tales for the first time. [@thejessleigh](https://github.com/thejessleigh)
+
+> Five mysterious, spine-tingling stories follow journeys into (and out of?) the eerie abyss.
+
+These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.
+
+Come take a walk in the woods and see what awaits you there.
+
 ## External Resources
 
 ## Credit
