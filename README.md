@@ -9,7 +9,7 @@
 ## Contents
 
 - [Novels](#novels)
-- [Short Story Collections](#short-story-collections)
+- [Short Stories](#short-stories)
 - [Movies](#movies)
 - [Television](#television)
 - [Comic Books](#comic-books)
@@ -63,7 +63,7 @@ I first read this book when I was far too young for it to have been appropriate 
 
 > A blind old man, a young apprentice working in a tattoo shop, and a mad woman haunting an Ohio institute narrate this story of a family that encounters an endlessly shifting series of hallways in their new home, eventually coming face to face with the awful darkness lying at its heart.
 
-## Short Story Collections
+## Short Stories
 
 ## Movies
 

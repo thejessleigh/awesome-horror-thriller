@@ -47,7 +47,13 @@ Categories: `gothic horror` `psychological thriller` `camp`
 ```
 - Please make sure you eliminate trailing whitespace before submitting a pull request.
 
-Thank you for adding a new suggestion!
+### Short Stories
+
+Please recommend individual stories, not collected works. This list is a curation, not a comprehensive collection. We only want to showcase the most awesome stories in the genre. However, feel free to submit multiple stories from the same collection!
+
+Many short stories have their own individual [Goodreads](https://goodreads.com) page. Please link to that when possible, rather than to a collection in which the story appears.
+
+### Thank you for adding a new suggestion!
 
 ## Updating your PR
 
