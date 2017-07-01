@@ -67,6 +67,14 @@ I first read this book when I was far too young for it to have been appropriate 
 
 ## Short Stories
 
+#### [The Lottery](https://www.goodreads.com/book/show/6219656-the-lottery) (1948) *by [Shirley Jackson](https://en.wikipedia.org/wiki/Shirley_Jackson)* [4.09] 🌟
+
+Categories: `horror` `mob mentality`
+
+I first read this when I was eight or nine and my mom was trying to introduce me to the magic of short fiction one summer break. I don't know what to say about this other than it's a classic and it's stayed with me and haunted me ever since I first read it. [@thejessleigh](https://github.com/thejessleigh)
+
+> Shirley Jackson's "The Lottery" is a memorable and terrifying masterpiece, fueled by a tension that creeps up on you slowly without any clear indication of why. This is just a townful of people, after all, choosing their numbers for the annual lottery. What's there to be scared of?
+
 ## Movies
 
 #### [Get Out](http://www.imdb.com/title/tt5052448/) (2017) *by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele)* [7.8]
