@@ -67,6 +67,16 @@ I first read this book when I was far too young for it to have been appropriate 
 
 ## Short Stories
 
+#### [The Cask of Amontillado](https://www.goodreads.com/book/show/261240.The_Cask_of_Amontillado) (1846) *by [Edgar Allen Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe)* [4.09]
+
+Categories: `horror` `live burial`
+
+Although *The Telltale Heart* is maybe Poe's more notorious piece of short horror fiction, I find *The Cask of Amontillado* to be more horrifying and enduring. It's a tale of petty grievances and severe consequences that rings true to real life cruelty. [@thejessleigh](https://github.com/thejessleigh)
+
+> "The Cask of Amontillado" (sometimes spelled "The Casque of Amontillado") is a short story, written by Edgar Allan Poe and first published in the November 1846 issue of Godey's Lady's Book.
+
+> The story is set in a nameless Italian city in an unspecified year (possibly sometime during the eighteenth century) and concerns the deadly revenge taken by the narrator on a friend who he claims has insulted him. Like several of Poe's stories, and in keeping with the 19th-century fascination with the subject, the narrative revolves around a person being buried alive – in this case, by immurement.
+
 #### [The Lottery](https://www.goodreads.com/book/show/6219656-the-lottery) (1948) *by [Shirley Jackson](https://en.wikipedia.org/wiki/Shirley_Jackson)* [4.09] 🌟
 
 Categories: `horror` `mob mentality`
