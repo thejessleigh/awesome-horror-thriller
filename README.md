@@ -105,6 +105,14 @@ The first time I saw this movie I immediately wanted to turn around and see it a
 
 > It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
 
+#### [Marnie](http://www.imdb.com/title/tt0058329) (1964) *by [Alfred Hitchcock](https://en.wikipedia.org/wiki/Alfred_Hitchcock)* [7.2] 🌟
+
+Categories: `crime` `drama` `thriller` `romance`
+
+One of Hitchcock's underrated films, in my opinion. Tippi Hedren plays Marnie, a deeply manipulative and damaged woman who professionally takes advantage of men. Marnie is found out by Mark, played by Sean Connery, who blackmails her into marrying him. The gender politics are, of course, dated by today's standards. But the sense of danger is built up so masterfully, and Hedren and Connery have such an amazing on screen chemistry. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Mark marries Marnie although she is a habitual thief and has serious psychological problems, and tries to help her confront and resolve them.
+
 #### [Rosemary's Baby](http://www.imdb.com/title/tt0063522/) (1968) *by [Roman Polanski](https://en.wikipedia.org/wiki/Roman_Polanski)* [8.0] 🌟
 
 Categories: `drama` `horror` `psychological` `supernatural`
