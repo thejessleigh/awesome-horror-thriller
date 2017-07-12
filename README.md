@@ -65,7 +65,7 @@ I first read this book when I was far too young for it to have been appropriate 
 
 > A blind old man, a young apprentice working in a tattoo shop, and a mad woman haunting an Ohio institute narrate this story of a family that encounters an endlessly shifting series of hallways in their new home, eventually coming face to face with the awful darkness lying at its heart.
 
-####[John Dies at the End](https://www.goodreads.com/book/show/1857440.John_Dies_at_the_End) (2007) *by [David Wong](https://en.wikipedia.org/wiki/David_Wong_(writer))* [3.92]
+#### [John Dies at the End](https://www.goodreads.com/book/show/1857440.John_Dies_at_the_End) (2007) *by [David Wong](https://en.wikipedia.org/wiki/David_Wong_(writer))* [3.92]
 
 Categories: `horror` `humor`
 
@@ -138,6 +138,14 @@ Categories: `crime` `drama` `psychological thriller`
 Hannibal is something of a tone poem. The character development and relationships at the core of the show are the stars here. The show manages to keep you engaged and terrified despite knowing from popular culture where Hannibal Lecter ends up. Plus, the food cinematography is amazing and disturbing. - [@thejessleigh](https://github.com/thejessleigh)
 
 > Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers.
+
+#### [Penny Dreadful](http://www.imdb.com/title/tt2628232/) (2014-2016) *by (John Logan)[https://en.wikipedia.org/wiki/John_Logan_(writer)]* [8.2]
+
+Categories: `drama` `gothic` `horror`
+
+I feel like it's trendy nowadays to inject a fair bit of camp and winking at the camera when taking on a serious horror piece. Many pieces that don't often fall into a dreary self-seriousness that becomes unintentionally funny. *Penny Dreadful* manages to avoid both, taking itself and its ideas seriously without becoming a dour slog. And most importantly, it manages to take well worn tropes and deliver scenes that are actually horrifying without resorting to petty jump scares or gore for the sake of gore. I personally think the first season is the tighest. It follows an adaptation of the Dracula storyline that will be familiar to fans of the novel, but finds ways to keep it fresh and unpredictable. The series also has the good sense to end before it loses its magic. [@thejessleigh](https://github.com/thejessleigh)
+
+> Explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, scientist Victor Frankenstein and medium Vanessa Ives unite to combat supernatural threats in Victorian London.
 
 ## Comic Books
 
