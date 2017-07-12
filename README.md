@@ -65,6 +65,16 @@ I first read this book when I was far too young for it to have been appropriate 
 
 > A blind old man, a young apprentice working in a tattoo shop, and a mad woman haunting an Ohio institute narrate this story of a family that encounters an endlessly shifting series of hallways in their new home, eventually coming face to face with the awful darkness lying at its heart.
 
+####[John Dies at the End](https://www.goodreads.com/book/show/1857440.John_Dies_at_the_End) (2007) *by [David Wong](https://en.wikipedia.org/wiki/David_Wong_(writer))* [3.92]
+
+Categories: `horror` `humor`
+
+I remember reading this back when it was available online before it was picked up by a publisher. It's ridiculous and juvenile, but it's also compelling and genuinely frightening at times. Definitely worth picking up if you're in the mood for some camp mixed in with your horror. - [@thejessleigh](https://github.com/thejessleigh)
+
+> **STOP.** You should not have touched this flyer with your bare hands. NO, don't put it down. It's too late. They're watching you. **My name is David Wong**. My best friend is John. Those names are fake. You might want to change yours. You may not want to know about the things you'll read on these pages, about **the sauce**, about **Korrok**, about the invasion, and the future. But it's too late. You touched the book. You're in the game. You're under **the eye**. The only defense is knowledge. You need to read this book, to the end. Even the part with the bratwurst. Why? You just have to trust me.
+
+> **The important thing is this**: The drug is called **Soy Sauce** and it gives users a window into another dimension. John and I never had the chance to say no. You still do. I'm sorry to have involved you in this, I really am. But as you read about these terrible events and the very **dark epoch** the world is about to enter as a result, it is crucial you keep one thing in mind: *None of this was my fault*.
+
 ## Short Stories
 
 #### [The Cask of Amontillado](https://www.goodreads.com/book/show/261240.The_Cask_of_Amontillado) (1846) *by [Edgar Allen Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe)* [4.09] 🌟
