@@ -13,6 +13,7 @@
 - [Movies](#movies)
 - [Television](#television)
 - [Comic Books](#comic-books)
+- [Podcasts](#podcasts)
 - [External Resources](#external-resources)
 
 🌟 means that it's a classic.
@@ -158,6 +159,8 @@ Emily Carroll does amazing things with color to create a sense of disquiet from 
 > Five mysterious, spine-tingling stories follow journeys into (and out of?) the eerie abyss.
 These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.
 Come take a walk in the woods and see what awaits you there.
+
+## Podcasts
 
 ## External Resources
 
