@@ -148,6 +148,14 @@ I feel like it's trendy nowadays to inject a fair bit of camp and winking at the
 
 > Explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, scientist Victor Frankenstein and medium Vanessa Ives unite to combat supernatural threats in Victorian London.
 
+#### [Puella Magi Madoka Magica](http://www.imdb.com/title/tt1773185/) (2011) *by [Akiyuki Shinbo](https://en.wikipedia.org/wiki/Akiyuki_Shinbo)*
+
+Categories: `anime` `drama` `horror` `magical girl`
+
+Madoka Magica is a brilliant deconstruction of the magical girl anime trope. The art direction is like nothing I've ever seen before and is worth watching just for the battle scenes alone. A definite must for horror and anime fans everywhere. - [@thejessleigh](https://github.com/thejessleigh)
+
+> A creature named Kyubey offers to grant Madoka a wish if she becomes a 'magical girl' and fights grotesque witches. A magical girl named Homura tries to stop this agreement, and the true nature of the contract with Kyubey is revealed.
+
 ## Comic Books
 
 #### [Through the Woods](https://www.goodreads.com/book/show/18659623-through-the-woods) (2014) *by [Emily Carroll](https://en.wikipedia.org/wiki/Emily_Carroll)* [3.92]
