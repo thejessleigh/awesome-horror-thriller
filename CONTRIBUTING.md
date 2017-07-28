@@ -53,6 +53,12 @@ Please recommend individual stories, not collected works. This list is a curatio
 
 Many short stories have their own individual [Goodreads](https://goodreads.com) page. Please link to that when possible, rather than to a collection in which the story appears.
 
+### Podcasts
+
+For podcasts, please link to the iTunes page for the podcast. For the creator, list the podcast host or podcast presentation company as listed on iTunes for the creator and link to their wikipedia page. Copy and paste the description from iTunes as the podcast description.
+
+If there is no wikipedia page for the podcast creator, link to the person or podcast collective's webiste.
+
 ### Thank you for adding a new suggestion!
 
 ## Updating your PR
