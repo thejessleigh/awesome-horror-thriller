@@ -170,6 +170,14 @@ Come take a walk in the woods and see what awaits you there.
 
 ## Podcasts
 
+#### [Lore](https://itunes.apple.com/us/podcast/lore/id978052928) (2015 - Present) *by [Aaron Mahnke](http://aaronmahnke.com/)
+
+Categories: `historical` `nonfiction` `urban legends`
+
+I love `Lore`. The tales are always fascinating, haunting, and rarely have a satisfying ending. This podcast is such a good curation of the werid and the unsettling. I ration out this podcast rather than binging it because I'm afraid of running out of episodes. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Lore is a bi-weekly podcast (and upcoming TV show) about the dark historical tales that fuel our modern superstitions. Each episode explores the world of mysterious creatures, tragic events, and unusual places. Because sometimes the truth is more frightening than fiction.
+
 #### [Welcome to Night Vale](https://itunes.apple.com/us/podcast/welcome-to-night-vale/id536258179) (2012 - Present) *by [Night Vale Presents](https://en.wikipedia.org/wiki/Welcome_to_Night_Vale)*
 
 Categories: `horror` `humor` `supernatural` `small town` `community radio`
