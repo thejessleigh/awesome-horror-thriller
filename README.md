@@ -170,6 +170,14 @@ Come take a walk in the woods and see what awaits you there.
 
 ## Podcasts
 
+#### [Welcome to Night Vale](https://itunes.apple.com/us/podcast/welcome-to-night-vale/id536258179) (2012 - Present) *by [Night Vale Presents](https://en.wikipedia.org/wiki/Welcome_to_Night_Vale)*
+
+Categories: `horror` `humor` `supernatural` `small town` `community radio`
+
+Welcome to Night Vale is one of the first and best known serial ficiton podcasts. It's uncanny and strange, and full of loveable characters that stick with you. The studio episodes are much better than the live tapings, but overall it's a joy to listen to. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, announcements from the Sheriff's Secret Police, mysterious lights in the night sky, dark hooded figures with unknowable powers, and cultural events. Turn on your radio and hide. Never listened before? It's an ongoing radio show. Start with the current episode, and you'll catch on in no time. Or, go right to Episode 1 if you wanna binge-listen.
+
 ## External Resources
 
 ## Credit
