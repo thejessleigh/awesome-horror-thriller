@@ -170,7 +170,7 @@ Come take a walk in the woods and see what awaits you there.
 
 ## Podcasts
 
-#### [Lore](https://itunes.apple.com/us/podcast/lore/id978052928) (2015 - Present) *by [Aaron Mahnke](http://aaronmahnke.com/)
+#### [Lore](https://itunes.apple.com/us/podcast/lore/id978052928) (2015 - Present) *by [Aaron Mahnke](http://aaronmahnke.com/)*
 
 Categories: `historical` `nonfiction` `urban legends`
 
