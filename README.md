@@ -148,7 +148,7 @@ I feel like it's trendy nowadays to inject a fair bit of camp and winking at the
 
 > Explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, scientist Victor Frankenstein and medium Vanessa Ives unite to combat supernatural threats in Victorian London.
 
-#### [Puella Magi Madoka Magica](http://www.imdb.com/title/tt1773185/) (2011) *by [Akiyuki Shinbo](https://en.wikipedia.org/wiki/Akiyuki_Shinbo)*
+#### [Puella Magi Madoka Magica](http://www.imdb.com/title/tt1773185/) (2011) *by [Akiyuki Shinbo](https://en.wikipedia.org/wiki/Akiyuki_Shinbo)* [8.4]
 
 Categories: `anime` `drama` `horror` `magical girl`
 
