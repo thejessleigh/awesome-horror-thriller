@@ -178,6 +178,14 @@ I love `Lore`. The tales are always fascinating, haunting, and rarely have a sat
 
 > Lore is a bi-weekly podcast (and upcoming TV show) about the dark historical tales that fuel our modern superstitions. Each episode explores the world of mysterious creatures, tragic events, and unusual places. Because sometimes the truth is more frightening than fiction.
 
+#### [Pseudopod](https://itunes.apple.com/us/podcast/pseudopod/id179911785?mt=2) (2006 - Present) *by [Escape Artists, Inc.](https://en.wikipedia.org/wiki/Escape_Pod_(podcast)#Escape_Artists.2C_Inc.)*
+
+Categories: `horror` `fiction` `anthology`
+
+Pseduopod brings a wide variety of stunning horror fiction to life with professional narrators. Some episodes are decidedly not for me, while others are breathtaking. Definitely worth checking out if you like horror at all. - [@thejessleigh](https://github.com/thejessleigh)
+
+> The Sound of Horror. Pseudopod is the world's first audio horror magazine. We deliver bone-chilling stories from today's most talented authors straight to ears.
+
 #### [Welcome to Night Vale](https://itunes.apple.com/us/podcast/welcome-to-night-vale/id536258179) (2012 - Present) *by [Night Vale Presents](https://en.wikipedia.org/wiki/Welcome_to_Night_Vale)*
 
 Categories: `horror` `humor` `supernatural` `small town` `community radio`
