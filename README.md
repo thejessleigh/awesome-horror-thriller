@@ -156,6 +156,14 @@ Madoka Magica is a brilliant deconstruction of the magical girl anime trope. The
 
 > A creature named Kyubey offers to grant Madoka a wish if she becomes a 'magical girl' and fights grotesque witches. A magical girl named Homura tries to stop this agreement, and the true nature of the contract with Kyubey is revealed.
 
+#### [Stranger Things](http://www.imdb.com/title/tt4574334/) (2016 - Present) *by [The Duffer Brothers](https://en.wikipedia.org/wiki/Duffer_Brothers)* [8.9]
+
+Categories: `horror` `fantasy` `small town`
+
+As with most horror, the central moster is more interesting the less they show of it. The pacing and deliberate doling out of information is very well done, and while I'm not usually a fan of child actors, this cast is fantastic. I was resistant to trying this one for a long time due to the hype, but it really is great. I'm glad I watched it in time to catch the Season 2 drop along with all the other fans. - [@thejessleigh](https://github.com/thejessleigh)
+
+> When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.
+
 ## Comic Books
 
 #### [Through the Woods](https://www.goodreads.com/book/show/18659623-through-the-woods) (2014) *by [Emily Carroll](https://en.wikipedia.org/wiki/Emily_Carroll)* [3.92]
