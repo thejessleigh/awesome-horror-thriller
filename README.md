@@ -176,6 +176,12 @@ Emily Carroll does amazing things with color to create a sense of disquiet from 
 These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.
 Come take a walk in the woods and see what awaits you there.
 
+#### [Wytches](https://www.goodreads.com/book/show/25243735-wytches-volume-1)  (2015) *by [Scott Snyder](https://en.wikipedia.org/wiki/Scott_Snyder), illustrated by [Jock](https://en.wikipedia.org/wiki/Jock_(cartoonist))* [3.84]
+
+The art and character design in this is amazing, and I loved the relationship between Sailor and her dad. I thought it was really well done. While the discussion of normalizing and dealing with anxiety and mental illness was a bit generic, it served the father-daughter relationship well. Definitely a good one-sitting read with creepy art and a very unique take on witches. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Everything you thought you knew about witches is wrong. They are much darker, and they are much more horrifying. Wytches takes the mythology of witches to a far creepier, bone-chilling place than readers have dared venture before. When the Rooks family moves to the remote town of Litchfield, NH to escape a haunting trauma, they're hopeful about starting over. But something evil is waiting for them in the woods just beyond town. Watching from the trees. Ancient...and hungry.
+
 ## Podcasts
 
 #### [Lore](https://itunes.apple.com/us/podcast/lore/id978052928) (2015 - Present) *by [Aaron Mahnke](http://aaronmahnke.com/)*
