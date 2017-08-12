@@ -166,6 +166,18 @@ As with most horror, the central moster is more interesting the less they show o
 
 ## Comic Books
 
+#### [Fatale](https://www.goodreads.com/book/show/13580807-fatale-vol-1) (2012 - 2014) *by [Ed Brubaker](https://en.wikipedia.org/wiki/Ed_Brubaker), illustrated by [Sean Phillips](https://en.wikipedia.org/wiki/Sean_Phillips)* [3.91]
+
+Categories: `crime` `horror` `lovecraftian` `noir`
+
+I really liked the intersection of horror and noir in this limited run series. I'm also really glad it was a limited run because I think it was perfect as a contained story, and not an ongoing saga. I think, generally, the series starts stronger than it ends, but it's still pretty awesome and definitely worth the read. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Secrets, lies, horror, lust and monsters from the time before time all collide in Fatale, Book One: Death Chases Me.
+
+> In present day, a man meets a woman who he becomes instantly obsessed with, and in the 1950s, this same woman destroys the lives of all those who cross her path, on a quest for... what?
+
+> Ed Brubaker and Sean Phillips' best-selling series will leave you craving more!
+
 #### [Through the Woods](https://www.goodreads.com/book/show/18659623-through-the-woods) (2014) *by [Emily Carroll](https://en.wikipedia.org/wiki/Emily_Carroll)* [3.92]
 
 Categories: `horror` `fairy tale`
