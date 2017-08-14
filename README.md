@@ -76,6 +76,15 @@ I remember reading this back when it was available online before it was picked u
 
 > **The important thing is this**: The drug is called **Soy Sauce** and it gives users a window into another dimension. John and I never had the chance to say no. You still do. I'm sorry to have involved you in this, I really am. But as you read about these terrible events and the very **dark epoch** the world is about to enter as a result, it is crucial you keep one thing in mind: *None of this was my fault*.
 
+#### [Swan Song](https://www.goodreads.com/book/show/11557.Swan_Song) (1987) *by [Robert McCammon](http://www.robertmccammon.com/)* [4.28]
+
+Categories: `horror`
+
+Many post-apocalyptic fiction tropes, plus a character that I'm pretty sure was meant to be a deconstruction of Ender's Game. Robert McCammon has a vivid style that has made him one of my favorite writers. - [@duganchen](https://github.com/duganchen)
+
+> **In a wasteland born of rage and fear, populated by monstrous creatures and marauding armies, earth's last survivors have been drawn into the final battle between good and evil, that will decide the fate of humanity: Sister, who discovers a strange and transformative glass artifact in the destroyed Manhattan streets; Joshua Hutchins, the pro wrestler who takes refuge from the nuclear fallout at a Nebraska gas station; and Swan, a young girl possessing special powers, who travels alongside Josh to a Missouri town where healing and recovery can begin with Swan's gifts. But the ancient force behind earth's devastation is scouring the walking wounded for recruits for its relentless army, beginning with Swan herself.
+
+
 ## Short Stories
 
 #### [The Cask of Amontillado](https://www.goodreads.com/book/show/261240.The_Cask_of_Amontillado) (1846) *by [Edgar Allen Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe)* [4.09] 🌟
