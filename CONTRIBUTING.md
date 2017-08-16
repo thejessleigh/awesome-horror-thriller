@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+For guidelines on what belongs on this list check out *[What is Horror](what_is_horror.md)*.
+
 Please note that this project is released with the [Contributor Covenant](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 Note: Pull requests should have a useful title. Please try to make your commit messages as descriptive as possible.
@@ -51,11 +53,11 @@ Categories: `gothic horror` `psychological thriller` `camp`
 
 Please recommend individual stories, not collected works. This list is a curation, not a comprehensive collection. We only want to showcase the most awesome stories in the genre. However, feel free to submit multiple stories from the same collection!
 
-Many short stories have their own individual [Goodreads](https://goodreads.com) page. Please link to that when possible, rather than to a collection in which the story appears.
+Many short stories have their own individual [Goodreads](https://goodreads.com) page. Please link to that when possible. If there is no [Goodreads](https://goodreads.com) entry available for an individual short story entry, please provide a [Goodreads](https://goodreads.com) link to first publication in which the story appears.
 
 ### Podcasts
 
-For podcasts, please link to the iTunes page for the podcast. For the creator, list the podcast host or podcast presentation company as listed on iTunes for the creator and link to their wikipedia page. Copy and paste the description from iTunes as the podcast description.
+For podcasts, please link to the iTunes page for the podcast. For the creator, list the podcast host or podcast presentation company as listed on iTunes and link to their wikipedia page. Copy and paste the description from iTunes as the podcast description.
 
 If there is no wikipedia page for the podcast creator, link to the person or podcast collective's webiste.
 
