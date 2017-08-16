@@ -8,7 +8,7 @@ So, in defining what horror is, our general guideline is to submit entries that 
 
 ## What should go here?
 
-As we've mentioned above, horror can have significant overlap with other genres. Given that there are other excellent media awesome lists like [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) and [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy), it can be difficult to decide where recommendations should go.
+As we've mentioned above, horror can have significant overlap with other genres. Given that there are other excellent media-based Awesome Lists like [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) and [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy), it can be difficult to decide where recommendations should go.
 
 The maintaners of [awesome-horror](https://github.com/thejessleigh/awesome-horror-thriller) are not affiliated with the maintainers of the other lists, so we can only speak for ourselves.
 
