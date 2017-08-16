@@ -6,6 +6,20 @@ Please note that this project is released with the [Contributor Covenant](CODE_O
 
 Note: Pull requests should have a useful title. Please try to make your commit messages as descriptive as possible.
 
+## Issue Labels
+
+Several issues have lables on them in this repo. There are generally two kinds of labels.
+
+- `help wanted`
+
+This label refers to an issue about the organization and sections of the list itself. There might be several ways to accomplish a task and the maintaners aren't exactly sure how to go about it. Anyone is welcome to comment on or self-assign this issue if they have a strong opinion about how to resolve the problem.
+
+- `recommendation question`
+
+We ask that contributors only recommend media that you have actually consumed and can speak to personally. If you would like to know whether *anyone else* would recommend a work, you can create an issue and add the `recommendation question` label.
+
+If you see a `recommendation question` issue open and you would like to engage in a conversation about it, feel free to talk in the issue comments. If you would recommend it as a piece of awesome horror or thriller media, make a pull request and close the issue after it is merged!
+
 ## Comments
 
 If you enjoyed any of the items on this list please feel free to leave a comment or testimonial underneath that line item on the list. Help visitors here find awesome things!
