@@ -4,6 +4,8 @@
 
 *Inspired by [awesome](https://github.com/sindresorhus/awesome) lists. For science fiction, see [awesome-scifi](https://github.com/sindresorhus/awesome-scifi). For awesome fantasy, see [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy).*
 
+If you're confused about what belongs on this list, check out the *[What Is Horror?](what_is_horror.md)* page for some guidelines.
+
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Contents
