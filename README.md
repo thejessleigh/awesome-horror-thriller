@@ -141,6 +141,14 @@ Although the gender politics of Buffalo Bill are outdated and problematic, Antho
 
 > A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.
 
+#### [The Witch](http://www.imdb.com/title/tt4263482/) (2015) *by [Robert Eggers](https://en.wikipedia.org/wiki/Robert_Eggers)* [6.8]
+
+Categories: `drama` `historical` `horror` `period peice` `social isolation` `witches`
+
+*The Witch* proved controversial after its initial release in 2015. It was publicly endorsed by The Satanic Temple, which is how many people, myself included, first heard about it. It was critically well reviewed, but the general audience reception on Rotten Tomatoes and elsewhere was tepid. This is somewhat understandable as *The Witch* can be difficult to watch at times. Much of the dialogue is pulled from period primary source documents and the pacing is grueling and methodical. It's as much about the horror of social isolation and religious fanaticism as it is any supernatural elements the film might contain. It's not a conventional horror film, but it is truly horrifying and engaging. There is some amazing and subtle acting that stuck with me for months after I saw the film in its initial theatrical release. *The Witch* is certainly not for everyone, but if you appreciate thoughtful and meticulously paced meditations on isolation, paranoia, scapegoating, and social taboo, you *must* give this a shot. - [@thejessleigh](https://github.com/thejessleigh)
+
+> A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.
+
 ## Television
 
 #### [Hannibal](http://www.imdb.com/title/tt2243973) (2013-2015) *by [Bryan Fuller](https://en.wikipedia.org/wiki/Bryan_Fuller)* [8.6]
