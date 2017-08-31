@@ -82,8 +82,26 @@ Categories: `horror`
 
 Many post-apocalyptic fiction tropes, plus a character that I'm pretty sure was meant to be a deconstruction of Ender's Game. Robert McCammon has a vivid style that has made him one of my favorite writers. - [@duganchen](https://github.com/duganchen)
 
-> **In a wasteland born of rage and fear, populated by monstrous creatures and marauding armies, earth's last survivors have been drawn into the final battle between good and evil, that will decide the fate of humanity: Sister, who discovers a strange and transformative glass artifact in the destroyed Manhattan streets; Joshua Hutchins, the pro wrestler who takes refuge from the nuclear fallout at a Nebraska gas station; and Swan, a young girl possessing special powers, who travels alongside Josh to a Missouri town where healing and recovery can begin with Swan's gifts. But the ancient force behind earth's devastation is scouring the walking wounded for recruits for its relentless army, beginning with Swan herself.
+> In a wasteland born of rage and fear, populated by monstrous creatures and marauding armies, earth's last survivors have been drawn into the final battle between good and evil, that will decide the fate of humanity: Sister, who discovers a strange and transformative glass artifact in the destroyed Manhattan streets; Joshua Hutchins, the pro wrestler who takes refuge from the nuclear fallout at a Nebraska gas station; and Swan, a young girl possessing special powers, who travels alongside Josh to a Missouri town where healing and recovery can begin with Swan's gifts. But the ancient force behind earth's devastation is scouring the walking wounded for recruits for its relentless army, beginning with Swan herself.
 
+#### [Kane](https://www.goodreads.com/book/show/22524133-kane) (1990) *by [Michael Prescott](http://michaelprescott.freeservers.com/)* [3.65]
+
+Categories: `horror`
+
+The old paperback edition, published under the name "Douglas Borton", is one of the books that got me into reading! How's that for a recommendation? Anyway, this is one of those stories set in isolated small town towns, with lots of 80s horror movie influences and an initially large cast. A DRM-free edition is available from Smashwords. - [@duganchen](https://github.com/duganchen)
+
+> From New York Times and USA Today bestselling author Michael Prescott, author of FINAL SINS and SHATTER, comes a relentless and
+explosive thriller.
+
+> The people of Tuskett, California, sense something wrong with the man who comes striding out of the Mojave, the man with icy blue eyes.  Something unnatural, like a prayer recited backward or a cross hung upside down.
+
+> Something evil.
+
+> Then darkness falls, draping the sleepy desert town like a burial shroud, and in the night shadows the man called Kane goes to work.
+
+> And his work is death ...
+
+> A motion picture adaptation of KANE is currently in development with Canadian production company Unstable Ground.
 
 ## Short Stories
 
