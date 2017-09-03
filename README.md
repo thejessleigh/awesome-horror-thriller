@@ -90,7 +90,7 @@ Many post-apocalyptic fiction tropes, plus a character that I'm pretty sure was 
 
 Categories: `horror`
 
-The old paperback edition, published under the name "Douglas Borton", is one of the books that got me into reading! How's that for a recommendation? Anyway, this is one of those stories set in isolated small town towns, with lots of 80s horror movie influences and an initially large cast. A DRM-free edition is available from Smashwords. - [@duganchen](https://github.com/duganchen)
+The old paperback edition, published under the name "Douglas Borton", is one of the books that got me into reading! How's that for a recommendation? Anyway, this is one of those stories set in isolated small towns, with lots of 80s horror movie influences and an initially large cast. A DRM-free edition is available from Smashwords. - [@duganchen](https://github.com/duganchen)
 
 > From New York Times and USA Today bestselling author Michael Prescott, author of FINAL SINS and SHATTER, comes a relentless and
 explosive thriller.
