@@ -105,6 +105,22 @@ explosive thriller.
 
 > A motion picture adaptation of KANE is currently in development with Canadian production company Unstable Ground.
 
+#### [Weaveworld](https://www.goodreads.com/book/show/52640.Weaveworld) (2001) *by [Clive Barker](http://www.clivebarker.info/)* [4.13]
+
+Categories: `horror` `fantasy` `dark fantasy`
+
+Unmistakably Clive Barker's best work. Take everything that was great about his short fiction&mdash;the sensuality, the imagination&mdash;and give it the plot of a bestseller. His later books mostly explored the same ideas and themes as this novel and his earlier shorter-form works: just at a slower pace. - [@duganchen](https://github.com/duganchen)
+
+> Clive Barker has made his mark on modern fiction by exposing all that is surreal and magical in the ordinary world --- and exploring the
+profound and overwhelming terror that results. With its volatile mix of the fantastical and the contemporary, the everyday and the
+otherworldly, Weaveworld is an epic work of dark fantasy and horror -- a tour de force from one of today's most forceful and imaginative
+artists.
+
+> Barker turns from his usual horror to epic-length fantasy for this account of the Fugue, a magical land inhabited by descendants of
+supernatural beings who once shared the earth with humans. The Fugue has been woven into a carpet for protection against those who would
+destroy it; the death of its guardian occasions a battle between good and particularly repulsive evil forces for control of the Fugue.
+Weaveworld is rich with memorable characters, exciting situations, and pockets of Barker's trademark horror.
+
 ## Short Stories
 
 #### [The Cask of Amontillado](https://www.goodreads.com/book/show/261240.The_Cask_of_Amontillado) (1846) *by [Edgar Allen Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe)* [4.09] 🌟
