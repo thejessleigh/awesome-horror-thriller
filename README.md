@@ -98,6 +98,14 @@ I first read this when I was eight or nine and my mom was trying to introduce me
 
 ## Movies
 
+#### [The Abandoned](http://www.imdb.com/title/tt0475937/?ref_=nv_sr_1) (2006) *by [Nacho Cerdà](https://en.wikipedia.org/wiki/Nacho_Cerd%C3%A0)* [5.6]
+
+Categories: `horror` `supernatural` `psychological thriller`
+
+Mostly a ghost story, with a little bit of zombie and sci-fi trope in there. the Abandoned is tightly plotted, wonderfully acted, and visually stunning. Definitely worth a watch and a re-watch.  - [@margarethogg](https://github.com/margarethogg)
+
+> An adopted woman returns to her home country and the family home that she never knew and must face the mystery that lies there.
+
 #### [Get Out](http://www.imdb.com/title/tt5052448/) (2017) *by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele)* [7.8]
 
 Categories: `horror`
@@ -177,6 +185,14 @@ Categories: `historical` `nonfiction` `urban legends`
 I love `Lore`. The tales are always fascinating, haunting, and rarely have a satisfying ending. This podcast is such a good curation of the werid and the unsettling. I ration out this podcast rather than binging it because I'm afraid of running out of episodes. - [@thejessleigh](https://github.com/thejessleigh)
 
 > Lore is a bi-weekly podcast (and upcoming TV show) about the dark historical tales that fuel our modern superstitions. Each episode explores the world of mysterious creatures, tragic events, and unusual places. Because sometimes the truth is more frightening than fiction.
+
+#### [The Magnus Archives](https://itunes.apple.com/us/podcast/the-magnus-archives/id1095138637?mt=2) (2016 - Present) *by [Rusty Quill](http://rustyquill.com/)*
+
+Categories: `horror` `anthology` `supernatural`
+
+ - The Magnus Archives serves up a different creepy tale every week, using truly weird and new horror imagery. If you've read John Bellairs or M. R. James, you'll know this style of subtle, creeping horror. As the stories progress, they start to have a common thread. Good voice and production work, and quick episodes to get through! [@margarethogg](https://github.com/margarethogg)
+
+> A weekly horror fiction podcast examining what lurks in the archives of the Magnus Institute, an organisation dedicated to researching the esoteric and the weird. Join Jonathan Sims as he explores the archive, but be be warned, as he looks into its depths something starts to look back…
 
 #### [Welcome to Night Vale](https://itunes.apple.com/us/podcast/welcome-to-night-vale/id536258179) (2012 - Present) *by [Night Vale Presents](https://en.wikipedia.org/wiki/Welcome_to_Night_Vale)*
 
