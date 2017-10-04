@@ -155,7 +155,7 @@ The Willows is a perfect example of my favorite sort of story. Creeping, unsettl
 
 Categories: `horror` `supernatural` `psychological thriller`
 
-Mostly a ghost story, with a little bit of zombie and sci-fi trope in there. the Abandoned is tightly plotted, wonderfully acted, and visually stunning. Definitely worth a watch and a re-watch.  - [@margarethogg](https://github.com/margarethogg)
+Mostly a ghost story, with a little bit of zombie and sci-fi trope in there. The Abandoned is tightly plotted, wonderfully acted, and visually stunning. Definitely worth a watch and a re-watch.  - [@margarethogg](https://github.com/margarethogg)
 
 > An adopted woman returns to her home country and the family home that she never knew and must face the mystery that lies there.
 
@@ -269,7 +269,7 @@ The art and character design in this is amazing, and I loved the relationship be
 
 Categories: `historical` `nonfiction` `urban legends`
 
-I love `Lore`. The tales are always fascinating, haunting, and rarely have a satisfying ending. This podcast is such a good curation of the werid and the unsettling. I ration out this podcast rather than binging it because I'm afraid of running out of episodes. - [@thejessleigh](https://github.com/thejessleigh)
+I love `Lore`. The tales are always fascinating, haunting, and rarely have a satisfying ending. This podcast is such a good curation of the weird and the unsettling. I ration out this podcast rather than binging it because I'm afraid of running out of episodes. - [@thejessleigh](https://github.com/thejessleigh)
 
 > Lore is a bi-weekly podcast (and upcoming TV show) about the dark historical tales that fuel our modern superstitions. Each episode explores the world of mysterious creatures, tragic events, and unusual places. Because sometimes the truth is more frightening than fiction.
 
