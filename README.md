@@ -143,11 +143,11 @@ I first read this when I was eight or nine and my mom was trying to introduce me
 
 #### [The Willows](http://www.gutenberg.org/ebooks/11438) (1907) *by [Algernon Blackwood](https://en.wikipedia.org/wiki/Algernon_Blackwood)*
 
-Categories: `early horror` `horror` `supernatural` `weird fiction`
+Categories: `early horror` `horror` `isolation` `supernatural` `weird fiction`
 
-The Willows is a perfect example of my favorite sort of story. Creeping, unsettling horror that culminates in strange and mostly unexplained events. The imagery from this one has stuck with me since I read it. - [@margarethogg](https://github.com/margarethogg)
+The Willows is a perfect example of my favorite sort of story. It features creeping, unsettling horror that culminates in strange and mostly unexplained events. The imagery from this one has stuck with me since I first read it. - [@margarethogg](https://github.com/margarethogg)
 
-> Two friends are midway on a canoe trip down the Danube River, when flood waters carry them into an uninhabited area. They are forced to stop overnight on one of the many small, sandy islands dotting the river, and on setting up camp are almost immediately confronted by odd sights that serve to set the tone for their stay.
+> Two friends are midway through a canoe trip down the Danube River, when flood waters carry them into an uninhabited area. They are forced to stop overnight on one of the many small, sandy islands dotting the river, and on setting up camp are almost immediately confronted by odd sights that serve to set the tone for their stay.
 
 ## Movies
 
