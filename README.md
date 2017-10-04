@@ -4,6 +4,8 @@
 
 *Inspired by [awesome](https://github.com/sindresorhus/awesome) lists. For science fiction, see [awesome-scifi](https://github.com/sindresorhus/awesome-scifi). For awesome fantasy, see [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy).*
 
+If you're confused about what belongs on this list, check out the *[What Is Horror?](what_is_horror.md)* page for some guidelines.
+
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Contents
@@ -76,6 +78,49 @@ I remember reading this back when it was available online before it was picked u
 
 > **The important thing is this**: The drug is called **Soy Sauce** and it gives users a window into another dimension. John and I never had the chance to say no. You still do. I'm sorry to have involved you in this, I really am. But as you read about these terrible events and the very **dark epoch** the world is about to enter as a result, it is crucial you keep one thing in mind: *None of this was my fault*.
 
+#### [Swan Song](https://www.goodreads.com/book/show/11557.Swan_Song) (1987) *by [Robert McCammon](http://www.robertmccammon.com/)* [4.28]
+
+Categories: `horror`
+
+Many post-apocalyptic fiction tropes, plus a character that I'm pretty sure was meant to be a deconstruction of Ender's Game. Robert McCammon has a vivid style that has made him one of my favorite writers. - [@duganchen](https://github.com/duganchen)
+
+> In a wasteland born of rage and fear, populated by monstrous creatures and marauding armies, earth's last survivors have been drawn into the final battle between good and evil, that will decide the fate of humanity: Sister, who discovers a strange and transformative glass artifact in the destroyed Manhattan streets; Joshua Hutchins, the pro wrestler who takes refuge from the nuclear fallout at a Nebraska gas station; and Swan, a young girl possessing special powers, who travels alongside Josh to a Missouri town where healing and recovery can begin with Swan's gifts. But the ancient force behind earth's devastation is scouring the walking wounded for recruits for its relentless army, beginning with Swan herself.
+
+#### [Kane](https://www.goodreads.com/book/show/22524133-kane) (1990) *by [Michael Prescott](http://michaelprescott.freeservers.com/)* [3.65]
+
+Categories: `horror`
+
+The old paperback edition, published under the name "Douglas Borton", is one of the books that got me into reading! How's that for a recommendation? Anyway, this is one of those stories set in isolated small towns, with lots of 80s horror movie influences and an initially large cast. A DRM-free edition is available from Smashwords. - [@duganchen](https://github.com/duganchen)
+
+> From New York Times and USA Today bestselling author Michael Prescott, author of FINAL SINS and SHATTER, comes a relentless and
+explosive thriller.
+
+> The people of Tuskett, California, sense something wrong with the man who comes striding out of the Mojave, the man with icy blue eyes.  Something unnatural, like a prayer recited backward or a cross hung upside down.
+
+> Something evil.
+
+> Then darkness falls, draping the sleepy desert town like a burial shroud, and in the night shadows the man called Kane goes to work.
+
+> And his work is death ...
+
+> A motion picture adaptation of KANE is currently in development with Canadian production company Unstable Ground.
+
+#### [Weaveworld](https://www.goodreads.com/book/show/52640.Weaveworld) (2001) *by [Clive Barker](http://www.clivebarker.info/)* [4.13]
+
+Categories: `horror` `fantasy` `dark fantasy`
+
+Unmistakably Clive Barker's best work. Take everything that was great about his short fiction&mdash;the sensuality, the imagination&mdash;and give it the plot of a bestseller. His later books mostly explored the same ideas and themes as this novel and his earlier shorter-form works: just at a slower pace. - [@duganchen](https://github.com/duganchen)
+
+> Clive Barker has made his mark on modern fiction by exposing all that is surreal and magical in the ordinary world --- and exploring the
+profound and overwhelming terror that results. With its volatile mix of the fantastical and the contemporary, the everyday and the
+otherworldly, Weaveworld is an epic work of dark fantasy and horror -- a tour de force from one of today's most forceful and imaginative
+artists.
+
+> Barker turns from his usual horror to epic-length fantasy for this account of the Fugue, a magical land inhabited by descendants of
+supernatural beings who once shared the earth with humans. The Fugue has been woven into a carpet for protection against those who would
+destroy it; the death of its guardian occasions a battle between good and particularly repulsive evil forces for control of the Fugue.
+Weaveworld is rich with memorable characters, exciting situations, and pockets of Barker's trademark horror.
+
 ## Short Stories
 
 #### [The Cask of Amontillado](https://www.goodreads.com/book/show/261240.The_Cask_of_Amontillado) (1846) *by [Edgar Allen Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe)* [4.09] 🌟
@@ -138,6 +183,14 @@ Although the gender politics of Buffalo Bill are outdated and problematic, Antho
 
 > A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.
 
+#### [The Witch](http://www.imdb.com/title/tt4263482/) (2015) *by [Robert Eggers](https://en.wikipedia.org/wiki/Robert_Eggers)* [6.8]
+
+Categories: `drama` `historical` `horror` `period peice` `social isolation` `witches`
+
+*The Witch* proved controversial after its initial release in 2015. It was publicly endorsed by The Satanic Temple, which is how many people, myself included, first heard about it. It was critically well reviewed, but the general audience reception on Rotten Tomatoes and elsewhere was tepid. This is somewhat understandable as *The Witch* can be difficult to watch at times. Much of the dialogue is pulled from period primary source documents and the pacing is grueling and methodical. It's as much about the horror of social isolation and religious fanaticism as it is any supernatural elements the film might contain. It's not a conventional horror film, but it is truly horrifying and engaging. There is some amazing and subtle acting that stuck with me for months after I saw the film in its initial theatrical release. *The Witch* is certainly not for everyone, but if you appreciate thoughtful and meticulously paced meditations on isolation, paranoia, scapegoating, and social taboo, you *must* give this a shot. - [@thejessleigh](https://github.com/thejessleigh)
+
+> A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.
+
 ## Television
 
 #### [Hannibal](http://www.imdb.com/title/tt2243973) (2013-2015) *by [Bryan Fuller](https://en.wikipedia.org/wiki/Bryan_Fuller)* [8.6]
@@ -164,7 +217,27 @@ Madoka Magica is a brilliant deconstruction of the magical girl anime trope. The
 
 > A creature named Kyubey offers to grant Madoka a wish if she becomes a 'magical girl' and fights grotesque witches. A magical girl named Homura tries to stop this agreement, and the true nature of the contract with Kyubey is revealed.
 
+#### [Stranger Things](http://www.imdb.com/title/tt4574334/) (2016 - Present) *by [The Duffer Brothers](https://en.wikipedia.org/wiki/Duffer_Brothers)* [8.9]
+
+Categories: `horror` `fantasy` `small town`
+
+As with most horror, the central moster is more interesting the less they show of it. The pacing and deliberate doling out of information is very well done, and while I'm not usually a fan of child actors, this cast is fantastic. I was resistant to trying this one for a long time due to the hype, but it really is great. I'm glad I watched it in time to catch the Season 2 drop along with all the other fans. - [@thejessleigh](https://github.com/thejessleigh)
+
+> When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.
+
 ## Comic Books
+
+#### [Fatale](https://www.goodreads.com/book/show/13580807-fatale-vol-1) (2012 - 2014) *by [Ed Brubaker](https://en.wikipedia.org/wiki/Ed_Brubaker), illustrated by [Sean Phillips](https://en.wikipedia.org/wiki/Sean_Phillips)* [3.91]
+
+Categories: `crime` `horror` `lovecraftian` `noir`
+
+I really liked the intersection of horror and noir in this limited run series. I'm also really glad it was a limited run because I think it was perfect as a contained story, and not an ongoing saga. I think, generally, the series starts stronger than it ends, but it's still pretty awesome and definitely worth the read. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Secrets, lies, horror, lust and monsters from the time before time all collide in Fatale, Book One: Death Chases Me.
+
+> In present day, a man meets a woman who he becomes instantly obsessed with, and in the 1950s, this same woman destroys the lives of all those who cross her path, on a quest for... what?
+
+> Ed Brubaker and Sean Phillips' best-selling series will leave you craving more!
 
 #### [Through the Woods](https://www.goodreads.com/book/show/18659623-through-the-woods) (2014) *by [Emily Carroll](https://en.wikipedia.org/wiki/Emily_Carroll)* [3.92]
 
@@ -175,6 +248,12 @@ Emily Carroll does amazing things with color to create a sense of disquiet from 
 > Five mysterious, spine-tingling stories follow journeys into (and out of?) the eerie abyss.
 These chilling tales spring from the macabre imagination of acclaimed and award-winning comic creator Emily Carroll.
 Come take a walk in the woods and see what awaits you there.
+
+#### [Wytches](https://www.goodreads.com/book/show/25243735-wytches-volume-1)  (2015) *by [Scott Snyder](https://en.wikipedia.org/wiki/Scott_Snyder), illustrated by [Jock](https://en.wikipedia.org/wiki/Jock_(cartoonist))* [3.84]
+
+The art and character design in this is amazing, and I loved the relationship between Sailor and her dad. I thought it was really well done. While the discussion of normalizing and dealing with anxiety and mental illness was a bit generic, it served the father-daughter relationship well. Definitely a good one-sitting read with creepy art and a very unique take on witches. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Everything you thought you knew about witches is wrong. They are much darker, and they are much more horrifying. Wytches takes the mythology of witches to a far creepier, bone-chilling place than readers have dared venture before. When the Rooks family moves to the remote town of Litchfield, NH to escape a haunting trauma, they're hopeful about starting over. But something evil is waiting for them in the woods just beyond town. Watching from the trees. Ancient...and hungry.
 
 ## Podcasts
 
@@ -193,6 +272,14 @@ Categories: `horror` `anthology` `supernatural`
  - The Magnus Archives serves up a different creepy tale every week, using truly weird and new horror imagery. If you've read John Bellairs or M. R. James, you'll know this style of subtle, creeping horror. As the stories progress, they start to have a common thread. Good voice and production work, and quick episodes to get through! [@margarethogg](https://github.com/margarethogg)
 
 > A weekly horror fiction podcast examining what lurks in the archives of the Magnus Institute, an organisation dedicated to researching the esoteric and the weird. Join Jonathan Sims as he explores the archive, but be be warned, as he looks into its depths something starts to look back…
+
+#### [Pseudopod](https://itunes.apple.com/us/podcast/pseudopod/id179911785?mt=2) (2006 - Present) *by [Escape Artists, Inc.](https://en.wikipedia.org/wiki/Escape_Pod_(podcast)#Escape_Artists.2C_Inc.)*
+
+Categories: `horror` `fiction` `anthology`
+
+Pseduopod brings a wide variety of stunning horror fiction to life with professional narrators. Some episodes are decidedly not for me, while others are breathtaking. Definitely worth checking out if you like horror at all. - [@thejessleigh](https://github.com/thejessleigh)
+
+> The Sound of Horror. Pseudopod is the world's first audio horror magazine. We deliver bone-chilling stories from today's most talented authors straight to ears.
 
 #### [Welcome to Night Vale](https://itunes.apple.com/us/podcast/welcome-to-night-vale/id536258179) (2012 - Present) *by [Night Vale Presents](https://en.wikipedia.org/wiki/Welcome_to_Night_Vale)*
 
