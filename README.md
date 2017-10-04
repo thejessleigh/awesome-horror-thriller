@@ -141,6 +141,14 @@ I first read this when I was eight or nine and my mom was trying to introduce me
 
 > Shirley Jackson's "The Lottery" is a memorable and terrifying masterpiece, fueled by a tension that creeps up on you slowly without any clear indication of why. This is just a townful of people, after all, choosing their numbers for the annual lottery. What's there to be scared of?
 
+#### [The Willows](http://www.gutenberg.org/ebooks/11438) (1907) *by [Algernon Blackwood](https://en.wikipedia.org/wiki/Algernon_Blackwood)*
+
+Categories: `early horror` `horror` `supernatural` `weird fiction`
+
+The Willows is a perfect example of my favorite sort of story. Creeping, unsettling horror that culminates in strange and mostly unexplained events. The imagery from this one has stuck with me since I read it. - [@margarethogg](https://github.com/margarethogg)
+
+> Two friends are midway on a canoe trip down the Danube River, when flood waters carry them into an uninhabited area. They are forced to stop overnight on one of the many small, sandy islands dotting the river, and on setting up camp are almost immediately confronted by odd sights that serve to set the tone for their stay.
+
 ## Movies
 
 #### [The Abandoned](http://www.imdb.com/title/tt0475937/?ref_=nv_sr_1) (2006) *by [Nacho Cerdà](https://en.wikipedia.org/wiki/Nacho_Cerd%C3%A0)* [5.6]
