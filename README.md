@@ -141,7 +141,23 @@ I first read this when I was eight or nine and my mom was trying to introduce me
 
 > Shirley Jackson's "The Lottery" is a memorable and terrifying masterpiece, fueled by a tension that creeps up on you slowly without any clear indication of why. This is just a townful of people, after all, choosing their numbers for the annual lottery. What's there to be scared of?
 
+#### [The Willows](http://www.gutenberg.org/ebooks/11438) (1907) *by [Algernon Blackwood](https://en.wikipedia.org/wiki/Algernon_Blackwood)*
+
+Categories: `early horror` `horror` `isolation` `supernatural` `weird fiction`
+
+The Willows is a perfect example of my favorite sort of story. It features creeping, unsettling horror that culminates in strange and mostly unexplained events. The imagery from this one has stuck with me since I first read it. - [@margarethogg](https://github.com/margarethogg)
+
+> Two friends are midway through a canoe trip down the Danube River, when flood waters carry them into an uninhabited area. They are forced to stop overnight on one of the many small, sandy islands dotting the river, and on setting up camp are almost immediately confronted by odd sights that serve to set the tone for their stay.
+
 ## Movies
+
+#### [The Abandoned](http://www.imdb.com/title/tt0475937/?ref_=nv_sr_1) (2006) *by [Nacho Cerdà](https://en.wikipedia.org/wiki/Nacho_Cerd%C3%A0)* [5.6]
+
+Categories: `horror` `supernatural` `psychological thriller`
+
+Mostly a ghost story, with a little bit of zombie and sci-fi trope in there. The Abandoned is tightly plotted, wonderfully acted, and visually stunning. Definitely worth a watch and a re-watch.  - [@margarethogg](https://github.com/margarethogg)
+
+> An adopted woman returns to her home country and the family home that she never knew and must face the mystery that lies there.
 
 #### [Get Out](http://www.imdb.com/title/tt5052448/) (2017) *by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele)* [7.8]
 
@@ -253,9 +269,17 @@ The art and character design in this is amazing, and I loved the relationship be
 
 Categories: `historical` `nonfiction` `urban legends`
 
-I love `Lore`. The tales are always fascinating, haunting, and rarely have a satisfying ending. This podcast is such a good curation of the werid and the unsettling. I ration out this podcast rather than binging it because I'm afraid of running out of episodes. - [@thejessleigh](https://github.com/thejessleigh)
+I love `Lore`. The tales are always fascinating, haunting, and rarely have a satisfying ending. This podcast is such a good curation of the weird and the unsettling. I ration out this podcast rather than binging it because I'm afraid of running out of episodes. - [@thejessleigh](https://github.com/thejessleigh)
 
 > Lore is a bi-weekly podcast (and upcoming TV show) about the dark historical tales that fuel our modern superstitions. Each episode explores the world of mysterious creatures, tragic events, and unusual places. Because sometimes the truth is more frightening than fiction.
+
+#### [The Magnus Archives](https://itunes.apple.com/us/podcast/the-magnus-archives/id1095138637?mt=2) (2016 - Present) *by [Rusty Quill](http://rustyquill.com/)*
+
+Categories: `horror` `anthology` `supernatural`
+
+ - The Magnus Archives serves up a different creepy tale every week, using truly weird and new horror imagery. If you've read John Bellairs or M. R. James, you'll know this style of subtle, creeping horror. As the stories progress, they start to have a common thread. Good voice and production work, and quick episodes to get through! [@margarethogg](https://github.com/margarethogg)
+
+> A weekly horror fiction podcast examining what lurks in the archives of the Magnus Institute, an organisation dedicated to researching the esoteric and the weird. Join Jonathan Sims as he explores the archive, but be be warned, as he looks into its depths something starts to look back…
 
 #### [Pseudopod](https://itunes.apple.com/us/podcast/pseudopod/id179911785?mt=2) (2006 - Present) *by [Escape Artists, Inc.](https://en.wikipedia.org/wiki/Escape_Pod_(podcast)#Escape_Artists.2C_Inc.)*
 
