@@ -235,6 +235,16 @@ As with most horror, the central moster is more interesting the less they show o
 
 ## Comic Books
 
+#### [Delphine](https://www.goodreads.com/book/show/14475472-delphine) (2013) *by [Richard Sala](https://en.wikipedia.org/wiki/Richard_Sala)* [3.2]
+
+Categories: `horror` `fairy tale`
+
+This fairy tale reimagining is beautifully illustrated. The plot itself is somewhat standard fare, but the illustrations give the concept new life. Sala draws grainy and gnarled faces and scenery that are absolutely stunning. - [@thejessleigh](https://github.com/thejesseleigh)
+
+> A mysterious traveler gets off the train in a small village surrounded by a thick, sinister forest. He is searching for Delphine, who vanished with only a scrawled-out address on a scrap of paper as a trace. In his newest chiller, Richard Sala takes the tale of Snow White and stands it on its head, retelling it from Prince Charming's perspective (the unnamed traveler) in a contemporary setting. This twisted tale includes all the elements of terror from the original fairy tale, with none of the insipid saccharine coating of the Disney animated adaptation. Yes, there will be blood.
+
+> Originally serialized as part of the acclaimed international series, Delphine is executed in a rich and ominous duotone that shows off Sala's virtuosity just as much as last year's full-color post-apocalyptic horror fantasy The Hidden did; punctuated with stunning full-color chapter breaks.
+
 #### [Fatale](https://www.goodreads.com/book/show/13580807-fatale-vol-1) (2012 - 2014) *by [Ed Brubaker](https://en.wikipedia.org/wiki/Ed_Brubaker), illustrated by [Sean Phillips](https://en.wikipedia.org/wiki/Sean_Phillips)* [3.91]
 
 Categories: `crime` `horror` `lovecraftian` `noir`
