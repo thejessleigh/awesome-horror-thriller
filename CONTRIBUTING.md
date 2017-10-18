@@ -27,7 +27,7 @@ If you enjoyed any of the items on this list please feel free to leave a comment
 Please use this format
 
 ```
-I loved telling this urban legend as a kid! - [yourname](https://github.com/yourgithub)
+I loved telling this urban legend as a kid! - [@your_github_username](https://github.com/yourgithub)
 ```
 
 ## Adding an item to the list
@@ -74,6 +74,14 @@ Many short stories have their own individual [Goodreads](https://goodreads.com) 
 For podcasts, please link to the iTunes page for the podcast. For the creator, list the podcast host or podcast presentation company as listed on iTunes and link to their wikipedia page. Copy and paste the description from iTunes as the podcast description.
 
 If there is no wikipedia page for the podcast creator, link to the person or podcast collective's webiste.
+
+### Video Games
+
+For video games, please link to the Wikipedia page for the game. For the creator, list the studio that released the game and link to their Wikipedia page as well.
+
+If the game does not have a Wikipedia page, link to the home page for that game.
+
+If the game was created by a solo developer and they do not have a Wiki page, list their name and link to their portfolio website.
 
 ### Thank you for adding a new suggestion!
 
