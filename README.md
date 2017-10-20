@@ -310,6 +310,14 @@ Welcome to Night Vale is one of the first and best known serial ficiton podcasts
 
 ## Video Games
 
+#### [Ib](https://en.wikipedia.org/wiki/Ib_(video_game)) *by [kouri](http://kouris.blog.shinobi.jp/)*
+
+Categories: `freeware` `horror` `indie-game` `psychological horror` `rpg-maker` `single-player`
+
+At first glance, RPG maker seems like a weird choice for a game about an art gallery. However, once you start playing the constraints of using sprites on the game artwork really inspired some creative and creepy visuals. The toy box part of the game is some of the most innovative map building I've ever seen. If you like single player RPG maker style games, this is an aboslute must play. - [@thejessleigh](https://github.com/thejessleigh)
+
+> Ib (イヴ Ivu) is a free-to-play adventure video game released in 2012 by the Japanese artist kouri. In the game, the player controls a character from a top-down perspective, exploring an eldritch art museum with the intent to escape, solving puzzles to advance. Despite the limitations of its engine, it effectively employs elements of psychological horror.
+
 ## External Resources
 
 ## Credit
