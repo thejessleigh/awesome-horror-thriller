@@ -322,7 +322,7 @@ At first glance, RPG maker seems like a weird choice for a game about an art gal
 
 ## Credit
 
-Inspired by the excellent lists made by [Richard Littauer](https://github.com/RichardLitt) and [Sindre Sorhus](https://github.com/sindresorhus/). Thank you for keeping the internet awesome.
+Inspired by the excellent lists made by [Richard Littauer](https://github.com/RichardLitt) and [Sindre Sorhus](https://github.com/sindresorhus/). Thank you for keeping the internet awesome. And thank you so much to everyone who has [contributed](https://github.com/thejessleigh/awesome-horror-thriller/graphs/contributors) to this list!
 
 ## License
 
